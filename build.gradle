@@ -30,7 +30,7 @@ dependencies {
 
 application {
     // Define the main class for the application
-    mainClassName = 'synch.static.App'
+    mainClassName = 'synch.App'
 }
 
 test {

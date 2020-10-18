@@ -1,4 +1,4 @@
-package synch_static;
+package synch;
 
 public class SynchCounter {
     static int count;
